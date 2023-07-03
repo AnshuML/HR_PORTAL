@@ -1,0 +1,7 @@
+README.md
+setup.py
+HR_PORTAL_PROJECT.egg-info/PKG-INFO
+HR_PORTAL_PROJECT.egg-info/SOURCES.txt
+HR_PORTAL_PROJECT.egg-info/dependency_links.txt
+HR_PORTAL_PROJECT.egg-info/requires.txt
+HR_PORTAL_PROJECT.egg-info/top_level.txt
